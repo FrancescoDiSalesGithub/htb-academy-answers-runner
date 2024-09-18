@@ -1,0 +1,20 @@
+bearer: "Bearer YOUR_BEARER_TOKEN"
+modules:
+  - name: "Web Requests"
+    owned: true
+    questions: 
+      - question_id: 1025
+        answer: "HTB{64$!c_cURL_u$3r}"
+      - question_id: 392
+        answer: "GET"
+      - question_id: 393
+        answer: "2.4.41"
+      - question_id: 1026
+        answer: "HTB{p493_r3qu3$t$_m0n!t0r}"
+      - question_id: 53
+        answer: "HTB{curl_g3773r}"
+      - question_id: 54
+        answer: "HTB{p0$t_r3p34t3r}"
+      - question_id: 390
+        answer: "HTB{crud_4p!_m4n!pul4t0r}"                                
+
